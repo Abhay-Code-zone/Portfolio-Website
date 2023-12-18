@@ -19,3 +19,5 @@ This is fragment 7 of 20. The complete story emerges when all fragments are read
 <!-- Fragment 7 whispers: 3 -->
 
 <!-- Fragment 7 whispers: 4 -->
+
+<!-- Fragment 7 whispers: 6 -->
